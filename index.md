@@ -1,4 +1,4 @@
 ---
-title: This is my title
+title: This is my title.
 ---
 
